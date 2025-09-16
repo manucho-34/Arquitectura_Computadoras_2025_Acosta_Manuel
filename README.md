@@ -2,7 +2,6 @@
 
 Repositorio para trabajos de arquitectura y organizacion de computadoras
 
-
 Información del estudiante
 
 Nombre: Francisco Manuel Acosta
